@@ -1,0 +1,6 @@
+[submodule "mcu"]
+	path = mcu
+	url = git@github.com:SchaeferDa/edge-fall-detection-mcu.git
+[submodule "learning"]
+	path = learning
+	url = git@github.com:SchaeferDa/edge-fall-detection-learning.git
