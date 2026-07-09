@@ -2,10 +2,10 @@ This project contains the video-based pose estimation and fall detection pipelin
 
 ## Project Structure
 
-### [learning/](learning/)
+### [learning/](https://github.com/SchaeferDa/edge-fall-detection-learning)
 Machine learning pipeline for training and inference.
 
-### [mcu/](mcu/)
+### [mcu/](https://github.com/SchaeferDa/edge-fall-detection-mcu)
 Embedded firmware for microcontroller deployment.
 
 ---
